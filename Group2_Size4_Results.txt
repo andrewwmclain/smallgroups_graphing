@@ -1,0 +1,458 @@
+WEEK 1
+GROUP 0: Mary (hosting) | Tyler | Annie | Mark | Molly
+GROUP 1: Fidelma, Fildemo (hosting) | Jennie, Johnny | Matt
+GROUP 2: Andie (hosting) | Brock | Cabbage, Carrot
+GROUP 3: Puppy (hosting) | Lunacy | Integrity | Smithers
+GROUP 4: Frederick (hosting) | Brangelina | Bartledoo | Skippy
+GROUP 5: Tequila (hosting) | Scarlett | Florence, Lawrence
+GROUP 6: Claudia (hosting) | Joanna | Amanda, Nina
+
+WEEK 2
+GROUP 0: Mary (hosting) | Fidelma, Fildemo | Jennie, Johnny
+GROUP 1: Tyler (hosting) | Annie | Mark | Molly | Matt
+GROUP 2: Andie (hosting) | Puppy | Lunacy | Integrity
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Smithers
+GROUP 4: Frederick (hosting) | Tequila | Scarlett | Claudia
+GROUP 5: Brangelina (hosting) | Bartledoo | Skippy | Joanna
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 3
+GROUP 0: Mary (hosting) | Matt | Andie | Brock | Puppy
+GROUP 1: Tyler (hosting) | Fidelma, Fildemo | Jennie, Johnny
+GROUP 2: Annie (hosting) | Mark | Molly | Lunacy
+GROUP 3: Cabbage, Carrot (hosting) | Integrity | Smithers
+GROUP 4: Frederick (hosting) | Florence, Lawrence | Joanna
+GROUP 5: Brangelina (hosting) | Tequila | Scarlett | Claudia
+GROUP 6: Bartledoo (hosting) | Skippy | Amanda, Nina
+
+WEEK 4
+GROUP 0: Mary (hosting) | Cabbage, Carrot | Lunacy | Integrity
+GROUP 1: Tyler (hosting) | Andie | Brock | Puppy | Smithers
+GROUP 2: Annie (hosting) | Fidelma, Fildemo | Matt
+GROUP 3: Mark (hosting) | Molly | Jennie, Johnny
+GROUP 4: Frederick (hosting) | Amanda, Nina | Brangelina
+GROUP 5: Bartledoo (hosting) | Tequila | Scarlett | Claudia
+GROUP 6: Skippy (hosting) | Florence, Lawrence | Joanna
+
+WEEK 5
+GROUP 0: Mary (hosting) | Smithers | Frederick | Brangelina | Bartledoo
+GROUP 1: Tyler (hosting) | Cabbage, Carrot | Lunacy | Integrity
+GROUP 2: Annie (hosting) | Jennie, Johnny | Andie
+GROUP 3: Mark (hosting) | Fidelma, Fildemo | Matt
+GROUP 4: Molly (hosting) | Brock | Puppy | Skippy
+GROUP 5: Tequila (hosting) | Claudia | Joanna | Scarlett
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 6
+GROUP 0: Mary (hosting) | Skippy | Tequila | Scarlett | Claudia
+GROUP 1: Tyler (hosting) | Frederick | Brangelina | Bartledoo | Joanna
+GROUP 2: Annie (hosting) | Brock | Cabbage, Carrot
+GROUP 3: Mark (hosting) | Andie | Puppy | Lunacy
+GROUP 4: Molly (hosting) | Fidelma, Fildemo | Matt
+GROUP 5: Jennie, Johnny (hosting) | Integrity | Smithers
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 7
+GROUP 0: Mary (hosting) | Florence, Lawrence | Joanna | Tyler
+GROUP 1: Annie (hosting) | Puppy | Integrity | Smithers | Frederick
+GROUP 2: Mark (hosting) | Brock | Cabbage, Carrot
+GROUP 3: Molly (hosting) | Jennie, Johnny | Andie
+GROUP 4: Fidelma, Fildemo (hosting) | Lunacy | Brangelina
+GROUP 5: Matt (hosting) | Bartledoo | Skippy | Tequila
+GROUP 6: Scarlett (hosting) | Claudia | Amanda, Nina
+
+WEEK 8
+GROUP 0: Mary (hosting) | Amanda, Nina | Tyler | Annie
+GROUP 1: Mark (hosting) | Integrity | Smithers | Frederick | Brangelina
+GROUP 2: Molly (hosting) | Cabbage, Carrot | Lunacy
+GROUP 3: Fidelma, Fildemo (hosting) | Andie | Brock
+GROUP 4: Jennie, Johnny (hosting) | Matt | Puppy
+GROUP 5: Bartledoo (hosting) | Florence, Lawrence | Joanna
+GROUP 6: Skippy (hosting) | Tequila | Scarlett | Claudia
+
+WEEK 9
+GROUP 0: Tyler (hosting) | Mary | Skippy | Tequila | Scarlett
+GROUP 1: Annie (hosting) | Brangelina | Bartledoo | Florence, Lawrence
+GROUP 2: Mark (hosting) | Claudia | Joanna | Molly
+GROUP 3: Fidelma, Fildemo (hosting) | Cabbage, Carrot
+GROUP 4: Jennie, Johnny (hosting) | Andie | Brock
+GROUP 5: Matt (hosting) | Puppy | Lunacy | Integrity
+GROUP 6: Smithers (hosting) | Frederick | Amanda, Nina
+
+WEEK 10
+GROUP 0: Tyler (hosting) | Florence, Lawrence | Claudia | Mary
+GROUP 1: Annie (hosting) | Skippy | Tequila | Scarlett | Joanna
+GROUP 2: Mark (hosting) | Bartledoo | Amanda, Nina
+GROUP 3: Molly (hosting) | Integrity | Smithers | Frederick
+GROUP 4: Fidelma, Fildemo (hosting) | Puppy | Matt
+GROUP 5: Jennie, Johnny (hosting) | Cabbage, Carrot
+GROUP 6: Andie (hosting) | Brangelina | Brock | Lunacy
+
+WEEK 11
+GROUP 0: Tyler (hosting) | Amanda, Nina | Mary | Annie
+GROUP 1: Mark (hosting) | Skippy | Tequila | Scarlett | Molly
+GROUP 2: Fidelma, Fildemo (hosting) | Integrity | Smithers
+GROUP 3: Jennie, Johnny (hosting) | Lunacy | Frederick
+GROUP 4: Matt (hosting) | Andie | Brock | Brangelina
+GROUP 5: Cabbage, Carrot (hosting) | Puppy | Bartledoo
+GROUP 6: Florence, Lawrence (hosting) | Claudia | Joanna
+
+WEEK 12
+GROUP 0: Annie (hosting) | Mary | Tyler | Claudia | Mark
+GROUP 1: Molly (hosting) | Brangelina | Bartledoo | Tequila | Scarlett
+GROUP 2: Fidelma, Fildemo (hosting) | Frederick | Skippy
+GROUP 3: Jennie, Johnny (hosting) | Florence, Lawrence
+GROUP 4: Matt (hosting) | Cabbage, Carrot | Smithers
+GROUP 5: Andie (hosting) | Joanna | Amanda, Nina
+GROUP 6: Brock (hosting) | Puppy | Lunacy | Integrity
+
+WEEK 13
+GROUP 0: Annie (hosting) | Amanda, Nina | Mary | Tyler
+GROUP 1: Mark (hosting) | Florence, Lawrence | Molly | Matt
+GROUP 2: Fidelma, Fildemo (hosting) | Bartledoo | Tequila
+GROUP 3: Jennie, Johnny (hosting) | Brangelina | Skippy
+GROUP 4: Andie (hosting) | Smithers | Frederick | Scarlett
+GROUP 5: Brock (hosting) | Claudia | Joanna | Puppy
+GROUP 6: Cabbage, Carrot (hosting) | Lunacy | Integrity
+
+WEEK 14
+GROUP 0: Mark (hosting) | Mary | Tyler | Annie | Molly
+GROUP 1: Fidelma, Fildemo (hosting) | Scarlett | Florence, Lawrence
+GROUP 2: Jennie, Johnny (hosting) | Bartledoo | Tequila
+GROUP 3: Matt (hosting) | Frederick | Claudia | Joanna
+GROUP 4: Andie (hosting) | Skippy | Brock | Puppy
+GROUP 5: Cabbage, Carrot (hosting) | Brangelina | Lunacy
+GROUP 6: Integrity (hosting) | Smithers | Amanda, Nina
+
+WEEK 15
+GROUP 0: Molly (hosting) | Mary | Tyler | Annie | Mark
+GROUP 1: Fidelma, Fildemo (hosting) | Claudia | Joanna | Matt
+GROUP 2: Jennie, Johnny (hosting) | Scarlett | Andie
+GROUP 3: Brock (hosting) | Frederick | Brangelina | Bartledoo
+GROUP 4: Cabbage, Carrot (hosting) | Skippy | Tequila
+GROUP 5: Puppy (hosting) | Florence, Lawrence | Lunacy
+GROUP 6: Integrity (hosting) | Smithers | Amanda, Nina
+
+WEEK 16
+GROUP 0: Molly (hosting) | Florence, Lawrence | Claudia | Joanna
+GROUP 1: Fidelma, Fildemo (hosting) | Mary | Tyler | Annie
+GROUP 2: Jennie, Johnny (hosting) | Mark | Matt
+GROUP 3: Andie (hosting) | Bartledoo | Tequila | Brock
+GROUP 4: Cabbage, Carrot (hosting) | Frederick | Scarlett
+GROUP 5: Puppy (hosting) | Brangelina | Skippy | Lunacy
+GROUP 6: Integrity (hosting) | Smithers | Amanda, Nina
+
+WEEK 17
+GROUP 0: Molly (hosting) | Amanda, Nina | Mary | Tyler
+GROUP 1: Fidelma, Fildemo (hosting) | Mark | Annie | Matt
+GROUP 2: Jennie, Johnny (hosting) | Claudia | Joanna
+GROUP 3: Andie (hosting) | Florence, Lawrence | Brock
+GROUP 4: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 5: Integrity (hosting) | Frederick | Brangelina | Bartledoo
+GROUP 6: Smithers (hosting) | Skippy | Tequila | Scarlett
+
+WEEK 18
+GROUP 0: Fidelma, Fildemo (hosting) | Molly | Amanda, Nina
+GROUP 1: Jennie, Johnny (hosting) | Mary | Tyler | Annie
+GROUP 2: Matt (hosting) | Mark | Scarlett | Andie
+GROUP 3: Brock (hosting) | Skippy | Tequila | Puppy
+GROUP 4: Cabbage, Carrot (hosting) | Florence, Lawrence
+GROUP 5: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 6: Brangelina (hosting) | Bartledoo | Claudia | Joanna
+
+WEEK 19
+GROUP 0: Jennie, Johnny (hosting) | Molly | Fidelma, Fildemo
+GROUP 1: Matt (hosting) | Mary | Tyler | Annie | Mark
+GROUP 2: Andie (hosting) | Claudia | Brock | Puppy
+GROUP 3: Cabbage, Carrot (hosting) | Joanna | Lunacy
+GROUP 4: Integrity (hosting) | Skippy | Tequila | Scarlett
+GROUP 5: Smithers (hosting) | Brangelina | Bartledoo | Frederick
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 20
+GROUP 0: Jennie, Johnny (hosting) | Amanda, Nina | Mary
+GROUP 1: Matt (hosting) | Molly | Fidelma, Fildemo | Tyler
+GROUP 2: Andie (hosting) | Annie | Mark | Brock
+GROUP 3: Cabbage, Carrot (hosting) | Claudia | Puppy
+GROUP 4: Lunacy (hosting) | Brangelina | Bartledoo | Skippy
+GROUP 5: Integrity (hosting) | Florence, Lawrence | Joanna
+GROUP 6: Smithers (hosting) | Frederick | Tequila | Scarlett
+
+WEEK 21
+GROUP 0: Matt (hosting) | Jennie, Johnny | Florence, Lawrence
+GROUP 1: Andie (hosting) | Mary | Tyler | Molly | Annie
+GROUP 2: Brock (hosting) | Mark | Fidelma, Fildemo
+GROUP 3: Cabbage, Carrot (hosting) | Amanda, Nina
+GROUP 4: Puppy (hosting) | Frederick | Bartledoo | Tequila
+GROUP 5: Lunacy (hosting) | Scarlett | Claudia | Joanna
+GROUP 6: Integrity (hosting) | Smithers | Brangelina | Skippy
+
+WEEK 22
+GROUP 0: Matt (hosting) | Amanda, Nina | Mary | Tyler
+GROUP 1: Andie (hosting) | Fidelma, Fildemo | Jennie, Johnny
+GROUP 2: Brock (hosting) | Annie | Molly | Scarlett
+GROUP 3: Cabbage, Carrot (hosting) | Mark | Puppy
+GROUP 4: Lunacy (hosting) | Tequila | Florence, Lawrence
+GROUP 5: Integrity (hosting) | Claudia | Smithers | Frederick
+GROUP 6: Brangelina (hosting) | Bartledoo | Skippy | Joanna
+
+WEEK 23
+GROUP 0: Andie (hosting) | Matt | Mary | Tyler | Annie
+GROUP 1: Brock (hosting) | Jennie, Johnny | Florence, Lawrence
+GROUP 2: Cabbage, Carrot (hosting) | Molly | Mark
+GROUP 3: Puppy (hosting) | Fidelma, Fildemo | Scarlett
+GROUP 4: Lunacy (hosting) | Amanda, Nina | Integrity
+GROUP 5: Smithers (hosting) | Claudia | Joanna | Frederick
+GROUP 6: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+
+WEEK 24
+GROUP 0: Brock (hosting) | Mary | Tyler | Matt | Andie
+GROUP 1: Cabbage, Carrot (hosting) | Annie | Fidelma, Fildemo
+GROUP 2: Puppy (hosting) | Mark | Molly | Claudia
+GROUP 3: Lunacy (hosting) | Jennie, Johnny | Integrity
+GROUP 4: Smithers (hosting) | Florence, Lawrence | Frederick
+GROUP 5: Brangelina (hosting) | Amanda, Nina | Bartledoo
+GROUP 6: Skippy (hosting) | Tequila | Scarlett | Joanna
+
+WEEK 25
+GROUP 0: Brock (hosting) | Amanda, Nina | Mary | Tyler
+GROUP 1: Cabbage, Carrot (hosting) | Jennie, Johnny | Matt
+GROUP 2: Puppy (hosting) | Annie | Andie | Joanna
+GROUP 3: Lunacy (hosting) | Mark | Molly | Integrity
+GROUP 4: Smithers (hosting) | Fidelma, Fildemo | Frederick
+GROUP 5: Brangelina (hosting) | Florence, Lawrence | Bartledoo
+GROUP 6: Skippy (hosting) | Tequila | Scarlett | Claudia
+
+WEEK 26
+GROUP 0: Cabbage, Carrot (hosting) | Mary | Tyler | Andie
+GROUP 1: Puppy (hosting) | Jennie, Johnny | Matt | Brock
+GROUP 2: Lunacy (hosting) | Annie | Fidelma, Fildemo
+GROUP 3: Integrity (hosting) | Mark | Molly | Smithers
+GROUP 4: Frederick (hosting) | Brangelina | Bartledoo | Skippy
+GROUP 5: Tequila (hosting) | Amanda, Nina | Scarlett
+GROUP 6: Florence, Lawrence (hosting) | Claudia | Joanna
+
+WEEK 27
+GROUP 0: Cabbage, Carrot (hosting) | Brock | Mary | Tyler
+GROUP 1: Puppy (hosting) | Amanda, Nina | Annie | Mark
+GROUP 2: Lunacy (hosting) | Matt | Andie | Molly
+GROUP 3: Integrity (hosting) | Fidelma, Fildemo | Smithers
+GROUP 4: Frederick (hosting) | Jennie, Johnny | Brangelina
+GROUP 5: Bartledoo (hosting) | Skippy | Tequila | Scarlett
+GROUP 6: Florence, Lawrence (hosting) | Claudia | Joanna
+
+WEEK 28
+GROUP 0: Puppy (hosting) | Mary | Tyler | Cabbage, Carrot
+GROUP 1: Lunacy (hosting) | Brock | Annie | Mark | Molly
+GROUP 2: Integrity (hosting) | Jennie, Johnny | Matt
+GROUP 3: Smithers (hosting) | Andie | Fidelma, Fildemo
+GROUP 4: Frederick (hosting) | Brangelina | Bartledoo | Skippy
+GROUP 5: Tequila (hosting) | Scarlett | Claudia | Joanna
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 29
+GROUP 0: Lunacy (hosting) | Mary | Tyler | Cabbage, Carrot
+GROUP 1: Integrity (hosting) | Annie | Andie | Brock | Puppy
+GROUP 2: Smithers (hosting) | Mark | Molly | Matt
+GROUP 3: Frederick (hosting) | Fidelma, Fildemo | Brangelina
+GROUP 4: Bartledoo (hosting) | Jennie, Johnny | Skippy
+GROUP 5: Tequila (hosting) | Scarlett | Claudia | Joanna
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 30
+GROUP 0: Lunacy (hosting) | Puppy | Mary | Tyler | Annie
+GROUP 1: Integrity (hosting) | Cabbage, Carrot | Mark | Molly
+GROUP 2: Smithers (hosting) | Jennie, Johnny | Brock
+GROUP 3: Frederick (hosting) | Matt | Andie | Brangelina
+GROUP 4: Bartledoo (hosting) | Fidelma, Fildemo | Skippy
+GROUP 5: Tequila (hosting) | Scarlett | Claudia | Joanna
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 31
+GROUP 0: Integrity (hosting) | Mary | Tyler | Lunacy | Annie
+GROUP 1: Smithers (hosting) | Cabbage, Carrot | Puppy | Mark
+GROUP 2: Frederick (hosting) | Molly | Brock | Matt
+GROUP 3: Brangelina (hosting) | Fidelma, Fildemo | Andie
+GROUP 4: Bartledoo (hosting) | Jennie, Johnny | Skippy
+GROUP 5: Tequila (hosting) | Scarlett | Claudia | Joanna
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 32
+GROUP 0: Smithers (hosting) | Mary | Tyler | Annie | Lunacy
+GROUP 1: Frederick (hosting) | Mark | Cabbage, Carrot | Puppy
+GROUP 2: Brangelina (hosting) | Molly | Jennie, Johnny
+GROUP 3: Bartledoo (hosting) | Matt | Andie | Brock
+GROUP 4: Skippy (hosting) | Fidelma, Fildemo | Integrity
+GROUP 5: Tequila (hosting) | Scarlett | Claudia | Joanna
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 33
+GROUP 0: Smithers (hosting) | Integrity | Mary | Tyler | Annie
+GROUP 1: Frederick (hosting) | Lunacy | Mark | Molly | Matt
+GROUP 2: Brangelina (hosting) | Brock | Cabbage, Carrot
+GROUP 3: Bartledoo (hosting) | Puppy | Fidelma, Fildemo
+GROUP 4: Skippy (hosting) | Jennie, Johnny | Andie
+GROUP 5: Tequila (hosting) | Scarlett | Claudia | Joanna
+GROUP 6: Florence, Lawrence (hosting) | Amanda, Nina
+
+WEEK 34
+GROUP 0: Frederick (hosting) | Mary | Tyler | Annie | Integrity
+GROUP 1: Brangelina (hosting) | Mark | Matt | Puppy | Lunacy
+GROUP 2: Bartledoo (hosting) | Molly | Cabbage, Carrot
+GROUP 3: Skippy (hosting) | Brock | Smithers | Andie
+GROUP 4: Tequila (hosting) | Fidelma, Fildemo | Scarlett
+GROUP 5: Florence, Lawrence (hosting) | Jennie, Johnny
+GROUP 6: Claudia (hosting) | Joanna | Amanda, Nina
+
+WEEK 35
+GROUP 0: Frederick (hosting) | Smithers | Mary | Tyler | Annie
+GROUP 1: Brangelina (hosting) | Integrity | Mark | Molly | Matt
+GROUP 2: Bartledoo (hosting) | Lunacy | Fidelma, Fildemo
+GROUP 3: Skippy (hosting) | Cabbage, Carrot | Puppy
+GROUP 4: Tequila (hosting) | Jennie, Johnny | Andie
+GROUP 5: Scarlett (hosting) | Brock | Florence, Lawrence
+GROUP 6: Claudia (hosting) | Joanna | Amanda, Nina
+
+WEEK 36
+GROUP 0: Brangelina (hosting) | Mary | Tyler | Annie | Smithers
+GROUP 1: Bartledoo (hosting) | Mark | Integrity | Frederick | Molly
+GROUP 2: Skippy (hosting) | Matt | Lunacy | Andie
+GROUP 3: Tequila (hosting) | Brock | Cabbage, Carrot
+GROUP 4: Scarlett (hosting) | Fidelma, Fildemo | Puppy
+GROUP 5: Florence, Lawrence (hosting) | Jennie, Johnny
+GROUP 6: Claudia (hosting) | Joanna | Amanda, Nina
+
+WEEK 37
+GROUP 0: Brangelina (hosting) | Frederick | Mary | Tyler | Annie
+GROUP 1: Bartledoo (hosting) | Smithers | Mark | Molly | Matt
+GROUP 2: Skippy (hosting) | Amanda, Nina | Andie
+GROUP 3: Tequila (hosting) | Puppy | Lunacy | Integrity
+GROUP 4: Scarlett (hosting) | Jennie, Johnny | Joanna
+GROUP 5: Florence, Lawrence (hosting) | Fidelma, Fildemo
+GROUP 6: Claudia (hosting) | Brock | Cabbage, Carrot
+
+WEEK 38
+GROUP 0: Bartledoo (hosting) | Mary | Tyler | Annie | Brangelina
+GROUP 1: Skippy (hosting) | Mark | Molly | Frederick | Matt
+GROUP 2: Tequila (hosting) | Smithers | Fidelma, Fildemo
+GROUP 3: Scarlett (hosting) | Andie | Cabbage, Carrot
+GROUP 4: Florence, Lawrence (hosting) | Brock | Puppy
+GROUP 5: Claudia (hosting) | Jennie, Johnny | Lunacy
+GROUP 6: Joanna (hosting) | Integrity | Amanda, Nina
+
+WEEK 39
+GROUP 0: Skippy (hosting) | Mary | Tyler | Annie | Brangelina
+GROUP 1: Tequila (hosting) | Mark | Molly | Matt | Frederick
+GROUP 2: Scarlett (hosting) | Lunacy | Integrity | Smithers
+GROUP 3: Florence, Lawrence (hosting) | Andie | Bartledoo
+GROUP 4: Claudia (hosting) | Fidelma, Fildemo | Puppy
+GROUP 5: Joanna (hosting) | Jennie, Johnny | Brock
+GROUP 6: Amanda, Nina (hosting) | Cabbage, Carrot
+
+WEEK 40
+GROUP 0: Skippy (hosting) | Bartledoo | Mary | Tyler | Annie
+GROUP 1: Tequila (hosting) | Brangelina | Mark | Molly | Matt
+GROUP 2: Scarlett (hosting) | Frederick | Fidelma, Fildemo
+GROUP 3: Florence, Lawrence (hosting) | Cabbage, Carrot
+GROUP 4: Claudia (hosting) | Andie | Integrity | Smithers
+GROUP 5: Joanna (hosting) | Puppy | Lunacy | Brock
+GROUP 6: Amanda, Nina (hosting) | Jennie, Johnny
+
+WEEK 41
+GROUP 0: Tequila (hosting) | Mary | Tyler | Annie | Bartledoo
+GROUP 1: Scarlett (hosting) | Mark | Molly | Matt | Brangelina
+GROUP 2: Florence, Lawrence (hosting) | Lunacy | Integrity
+GROUP 3: Claudia (hosting) | Frederick | Skippy | Andie
+GROUP 4: Joanna (hosting) | Fidelma, Fildemo | Smithers
+GROUP 5: Amanda, Nina (hosting) | Brock | Puppy
+GROUP 6: Jennie, Johnny (hosting) | Cabbage, Carrot
+
+WEEK 42
+GROUP 0: Tequila (hosting) | Skippy | Mary | Tyler | Annie
+GROUP 1: Scarlett (hosting) | Bartledoo | Mark | Molly | Matt
+GROUP 2: Florence, Lawrence (hosting) | Smithers | Frederick
+GROUP 3: Claudia (hosting) | Brangelina | Fidelma, Fildemo
+GROUP 4: Joanna (hosting) | Andie | Cabbage, Carrot
+GROUP 5: Amanda, Nina (hosting) | Lunacy | Integrity
+GROUP 6: Jennie, Johnny (hosting) | Brock | Puppy
+
+WEEK 43
+GROUP 0: Scarlett (hosting) | Mary | Tyler | Annie | Skippy
+GROUP 1: Florence, Lawrence (hosting) | Mark | Molly | Matt
+GROUP 2: Claudia (hosting) | Bartledoo | Tequila | Andie
+GROUP 3: Joanna (hosting) | Frederick | Brangelina | Brock
+GROUP 4: Amanda, Nina (hosting) | Fidelma, Fildemo
+GROUP 5: Jennie, Johnny (hosting) | Cabbage, Carrot
+GROUP 6: Puppy (hosting) | Lunacy | Integrity | Smithers
+
+WEEK 44
+GROUP 0: Scarlett (hosting) | Tequila | Mary | Tyler | Annie
+GROUP 1: Florence, Lawrence (hosting) | Brangelina | Skippy | Mark
+GROUP 2: Claudia (hosting) | Molly | Matt | Andie
+GROUP 3: Joanna (hosting) | Bartledoo | Fidelma, Fildemo
+GROUP 4: Amanda, Nina (hosting) | Smithers | Frederick
+GROUP 5: Jennie, Johnny (hosting) | Brock | Puppy
+GROUP 6: Cabbage, Carrot (hosting) | Lunacy | Integrity
+
+WEEK 45
+GROUP 0: Florence, Lawrence (hosting) | Mary | Tyler | Annie
+GROUP 1: Claudia (hosting) | Mark | Scarlett | Molly | Matt
+GROUP 2: Joanna (hosting) | Skippy | Tequila | Andie
+GROUP 3: Amanda, Nina (hosting) | Brangelina | Bartledoo
+GROUP 4: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 5: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 6: Lunacy (hosting) | Integrity | Smithers | Frederick
+
+WEEK 46
+GROUP 0: Florence, Lawrence (hosting) | Tequila | Scarlett | Mary
+GROUP 1: Claudia (hosting) | Tyler | Annie | Mark | Molly
+GROUP 2: Joanna (hosting) | Matt | Fidelma, Fildemo
+GROUP 3: Amanda, Nina (hosting) | Andie | Skippy
+GROUP 4: Jennie, Johnny (hosting) | Brock | Puppy
+GROUP 5: Cabbage, Carrot (hosting) | Lunacy | Integrity
+GROUP 6: Smithers (hosting) | Frederick | Brangelina | Bartledoo
+
+WEEK 47
+GROUP 0: Claudia (hosting) | Mary | Florence, Lawrence | Tyler
+GROUP 1: Joanna (hosting) | Annie | Mark | Molly | Scarlett
+GROUP 2: Amanda, Nina (hosting) | Matt | Tequila
+GROUP 3: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 4: Andie (hosting) | Brock | Cabbage, Carrot
+GROUP 5: Puppy (hosting) | Lunacy | Integrity | Smithers
+GROUP 6: Frederick (hosting) | Brangelina | Bartledoo | Skippy
+
+WEEK 48
+GROUP 0: Joanna (hosting) | Mary | Tyler | Florence, Lawrence
+GROUP 1: Amanda, Nina (hosting) | Annie | Mark | Molly
+GROUP 2: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 3: Matt (hosting) | Andie | Brock | Puppy
+GROUP 4: Cabbage, Carrot (hosting) | Lunacy | Integrity
+GROUP 5: Smithers (hosting) | Frederick | Brangelina | Bartledoo
+GROUP 6: Skippy (hosting) | Tequila | Scarlett | Claudia
+
+WEEK 49
+GROUP 0: Joanna (hosting) | Claudia | Mary | Tyler | Annie
+GROUP 1: Amanda, Nina (hosting) | Scarlett | Florence, Lawrence
+GROUP 2: Mark (hosting) | Molly | Fidelma, Fildemo
+GROUP 3: Jennie, Johnny (hosting) | Matt | Andie
+GROUP 4: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 5: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 6: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+
+WEEK 50
+GROUP 0: Amanda, Nina (hosting) | Mary | Tyler | Claudia
+GROUP 1: Annie (hosting) | Mark | Molly | Fidelma, Fildemo
+GROUP 2: Jennie, Johnny (hosting) | Matt | Andie
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 4: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 5: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+GROUP 6: Scarlett (hosting) | Florence, Lawrence | Joanna
+
+WEEK 51
+GROUP 0: Amanda, Nina (hosting) | Joanna | Mary | Tyler
+GROUP 1: Annie (hosting) | Mark | Molly | Fidelma, Fildemo
+GROUP 2: Jennie, Johnny (hosting) | Matt | Andie
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 4: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 5: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+GROUP 6: Scarlett (hosting) | Florence, Lawrence | Claudia

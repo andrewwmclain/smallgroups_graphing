@@ -1,0 +1,149 @@
+WEEK 1
+GROUP 0: Mary (hosting) | Tyler | Annie | Mark
+GROUP 1: Molly (hosting) | Fidelma, Fildemo | Henry
+GROUP 2: Jennie, Johnny (hosting) | Matt | Andie
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Brometheus
+
+WEEK 2
+GROUP 0: Mary (hosting) | Molly | Fidelma, Fildemo
+GROUP 1: Tyler (hosting) | Annie | Mark | Henry
+GROUP 2: Jennie, Johnny (hosting) | Brock | Brometheus
+GROUP 3: Matt (hosting) | Andie | Cabbage, Carrot
+
+WEEK 3
+GROUP 0: Mary (hosting) | Henry | Jennie, Johnny
+GROUP 1: Tyler (hosting) | Molly | Fidelma, Fildemo
+GROUP 2: Annie (hosting) | Mark | Matt | Andie
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Brometheus
+
+WEEK 4
+GROUP 0: Mary (hosting) | Matt | Andie | Brock
+GROUP 1: Tyler (hosting) | Jennie, Johnny | Brometheus
+GROUP 2: Annie (hosting) | Molly | Fidelma, Fildemo
+GROUP 3: Mark (hosting) | Henry | Cabbage, Carrot
+
+WEEK 5
+GROUP 0: Mary (hosting) | Cabbage, Carrot | Brometheus
+GROUP 1: Tyler (hosting) | Matt | Andie | Brock
+GROUP 2: Annie (hosting) | Henry | Jennie, Johnny
+GROUP 3: Mark (hosting) | Molly | Fidelma, Fildemo
+
+WEEK 6
+GROUP 0: Tyler (hosting) | Mary | Cabbage, Carrot
+GROUP 1: Annie (hosting) | Brock | Brometheus | Mark
+GROUP 2: Molly (hosting) | Jennie, Johnny | Matt
+GROUP 3: Fidelma, Fildemo (hosting) | Henry | Andie
+
+WEEK 7
+GROUP 0: Annie (hosting) | Mary | Tyler | Mark
+GROUP 1: Molly (hosting) | Andie | Brock | Brometheus
+GROUP 2: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 3: Henry (hosting) | Matt | Cabbage, Carrot
+
+WEEK 8
+GROUP 0: Annie (hosting) | Cabbage, Carrot | Mary
+GROUP 1: Mark (hosting) | Tyler | Jennie, Johnny
+GROUP 2: Molly (hosting) | Fidelma, Fildemo | Henry
+GROUP 3: Matt (hosting) | Brock | Brometheus | Andie
+
+WEEK 9
+GROUP 0: Mark (hosting) | Mary | Annie | Matt
+GROUP 1: Molly (hosting) | Tyler | Cabbage, Carrot
+GROUP 2: Fidelma, Fildemo (hosting) | Brock | Brometheus
+GROUP 3: Henry (hosting) | Jennie, Johnny | Andie
+
+WEEK 10
+GROUP 0: Mark (hosting) | Andie | Brock | Brometheus
+GROUP 1: Molly (hosting) | Mary | Annie | Tyler
+GROUP 2: Fidelma, Fildemo (hosting) | Matt | Henry
+GROUP 3: Jennie, Johnny (hosting) | Cabbage, Carrot
+
+WEEK 11
+GROUP 0: Molly (hosting) | Mark | Mary | Tyler
+GROUP 1: Fidelma, Fildemo (hosting) | Annie | Henry
+GROUP 2: Jennie, Johnny (hosting) | Matt | Andie
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Brometheus
+
+WEEK 12
+GROUP 0: Fidelma, Fildemo (hosting) | Mary | Tyler
+GROUP 1: Henry (hosting) | Annie | Mark | Molly
+GROUP 2: Jennie, Johnny (hosting) | Matt | Andie
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Brometheus
+
+WEEK 13
+GROUP 0: Fidelma, Fildemo (hosting) | Mark | Molly
+GROUP 1: Henry (hosting) | Mary | Tyler | Brock
+GROUP 2: Jennie, Johnny (hosting) | Annie | Matt
+GROUP 3: Andie (hosting) | Cabbage, Carrot | Brometheus
+
+WEEK 14
+GROUP 0: Fidelma, Fildemo (hosting) | Cabbage, Carrot
+GROUP 1: Henry (hosting) | Brometheus | Mary | Tyler
+GROUP 2: Jennie, Johnny (hosting) | Mark | Molly
+GROUP 3: Matt (hosting) | Annie | Andie | Brock
+
+WEEK 15
+GROUP 0: Henry (hosting) | Fidelma, Fildemo | Mary
+GROUP 1: Jennie, Johnny (hosting) | Tyler | Annie
+GROUP 2: Matt (hosting) | Mark | Molly | Andie
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Brometheus
+
+WEEK 16
+GROUP 0: Jennie, Johnny (hosting) | Mary | Henry
+GROUP 1: Matt (hosting) | Tyler | Fidelma, Fildemo
+GROUP 2: Andie (hosting) | Annie | Mark | Molly
+GROUP 3: Brock (hosting) | Cabbage, Carrot | Brometheus
+
+WEEK 17
+GROUP 0: Jennie, Johnny (hosting) | Fidelma, Fildemo
+GROUP 1: Matt (hosting) | Mary | Henry | Tyler
+GROUP 2: Andie (hosting) | Brock | Annie | Mark
+GROUP 3: Cabbage, Carrot (hosting) | Molly | Brometheus
+
+WEEK 18
+GROUP 0: Matt (hosting) | Jennie, Johnny | Mary
+GROUP 1: Andie (hosting) | Tyler | Fidelma, Fildemo
+GROUP 2: Brock (hosting) | Annie | Mark | Molly
+GROUP 3: Cabbage, Carrot (hosting) | Henry | Brometheus
+
+WEEK 19
+GROUP 0: Andie (hosting) | Mary | Henry | Matt
+GROUP 1: Brock (hosting) | Tyler | Fidelma, Fildemo
+GROUP 2: Cabbage, Carrot (hosting) | Annie | Mark
+GROUP 3: Brometheus (hosting) | Molly | Jennie, Johnny
+
+WEEK 20
+GROUP 0: Andie (hosting) | Jennie, Johnny | Mary
+GROUP 1: Brock (hosting) | Henry | Matt | Tyler
+GROUP 2: Cabbage, Carrot (hosting) | Fidelma, Fildemo
+GROUP 3: Brometheus (hosting) | Annie | Mark | Molly
+
+WEEK 21
+GROUP 0: Brock (hosting) | Mary | Jennie, Johnny
+GROUP 1: Cabbage, Carrot (hosting) | Tyler | Matt
+GROUP 2: Brometheus (hosting) | Fidelma, Fildemo | Henry
+GROUP 3: Annie (hosting) | Mark | Molly | Andie
+
+WEEK 22
+GROUP 0: Brock (hosting) | Andie | Mary | Tyler
+GROUP 1: Cabbage, Carrot (hosting) | Jennie, Johnny
+GROUP 2: Brometheus (hosting) | Matt | Annie | Mark
+GROUP 3: Molly (hosting) | Fidelma, Fildemo | Henry
+
+WEEK 23
+GROUP 0: Cabbage, Carrot (hosting) | Mary | Andie
+GROUP 1: Brometheus (hosting) | Tyler | Brock | Annie
+GROUP 2: Mark (hosting) | Molly | Fidelma, Fildemo
+GROUP 3: Henry (hosting) | Jennie, Johnny | Matt
+
+WEEK 24
+GROUP 0: Cabbage, Carrot (hosting) | Brock | Mary
+GROUP 1: Brometheus (hosting) | Andie | Tyler | Annie
+GROUP 2: Mark (hosting) | Molly | Fidelma, Fildemo
+GROUP 3: Henry (hosting) | Jennie, Johnny | Matt
+
+WEEK 25
+GROUP 0: Brometheus (hosting) | Mary | Cabbage, Carrot
+GROUP 1: Tyler (hosting) | Annie | Mark | Molly
+GROUP 2: Fidelma, Fildemo (hosting) | Henry | Matt
+GROUP 3: Jennie, Johnny (hosting) | Andie | Brock

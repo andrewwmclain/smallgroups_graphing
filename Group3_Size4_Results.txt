@@ -1,0 +1,579 @@
+WEEK 1
+GROUP 0: Mary (hosting) | Tyler | Annie | Mark | Andie
+GROUP 1: Fidelma, Fildemo (hosting) | Jennie, Johnny | Brock
+GROUP 2: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 3: Integrity (hosting) | Smithers | Frederick | Brangelina
+GROUP 4: Bartledoo (hosting) | Skippy | Tequila | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Joanna | Sandra
+GROUP 6: Amanda, Nina (hosting) | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 2
+GROUP 0: Mary (hosting) | Fidelma, Fildemo | Jennie, Johnny
+GROUP 1: Tyler (hosting) | Annie | Mark | Andie | Brock
+GROUP 2: Cabbage, Carrot (hosting) | Integrity | Smithers
+GROUP 3: Puppy (hosting) | Lunacy | Frederick | Brangelina
+GROUP 4: Bartledoo (hosting) | Florence, Lawrence | Joanna
+GROUP 5: Skippy (hosting) | Tequila | Bertha | Sandra
+GROUP 6: Amanda, Nina (hosting) | Carmen, SanDiego
+GROUP 7: Israel (hosting) | Betty | ChosenOne, Ling
+
+WEEK 3
+GROUP 0: Mary (hosting) | Brock | Cabbage, Carrot | Puppy
+GROUP 1: Tyler (hosting) | Fidelma, Fildemo | Jennie, Johnny
+GROUP 2: Annie (hosting) | Mark | Andie | Lunacy
+GROUP 3: Integrity (hosting) | Bartledoo | Skippy | Tequila
+GROUP 4: Smithers (hosting) | Frederick | Brangelina | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Amanda, Nina
+GROUP 6: Joanna (hosting) | Sandra | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 4
+GROUP 0: Mary (hosting) | Lunacy | Integrity | Smithers | Frederick
+GROUP 1: Tyler (hosting) | Cabbage, Carrot | Puppy | Brangelina
+GROUP 2: Annie (hosting) | Fidelma, Fildemo | Brock
+GROUP 3: Mark (hosting) | Jennie, Johnny | Andie
+GROUP 4: Bartledoo (hosting) | Amanda, Nina | Sandra
+GROUP 5: Skippy (hosting) | Florence, Lawrence | Joanna
+GROUP 6: Tequila (hosting) | Bertha | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 5
+GROUP 0: Mary (hosting) | Brangelina | Bartledoo | Skippy | Tequila
+GROUP 1: Tyler (hosting) | Lunacy | Integrity | Smithers | Frederick
+GROUP 2: Annie (hosting) | Jennie, Johnny | Puppy
+GROUP 3: Mark (hosting) | Fidelma, Fildemo | Brock
+GROUP 4: Andie (hosting) | Cabbage, Carrot | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Israel | Betty
+GROUP 6: Joanna (hosting) | Amanda, Nina | Sandra
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 6
+GROUP 0: Mary (hosting) | Florence, Lawrence | Bertha | Joanna
+GROUP 1: Tyler (hosting) | Bartledoo | Skippy | Tequila | Sandra
+GROUP 2: Annie (hosting) | Cabbage, Carrot | Integrity
+GROUP 3: Mark (hosting) | Puppy | Lunacy | Smithers
+GROUP 4: Fidelma, Fildemo (hosting) | Andie | Frederick
+GROUP 5: Jennie, Johnny (hosting) | Brock | Brangelina
+GROUP 6: Amanda, Nina (hosting) | ChosenOne, Ling
+GROUP 7: Israel (hosting) | Carmen, SanDiego | Betty
+
+WEEK 7
+GROUP 0: Mary (hosting) | Amanda, Nina | Sandra | Israel
+GROUP 1: Tyler (hosting) | Florence, Lawrence | Bertha | Joanna
+GROUP 2: Annie (hosting) | Smithers | Frederick | Brangelina
+GROUP 3: Mark (hosting) | Cabbage, Carrot | Integrity
+GROUP 4: Fidelma, Fildemo (hosting) | Puppy | Lunacy
+GROUP 5: Jennie, Johnny (hosting) | Andie | Bartledoo
+GROUP 6: Brock (hosting) | Skippy | Tequila | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 8
+GROUP 0: Mary (hosting) | Carmen, SanDiego | Betty | Tyler
+GROUP 1: Annie (hosting) | Bartledoo | Skippy | Tequila | Bertha
+GROUP 2: Mark (hosting) | Frederick | Brangelina | Joanna
+GROUP 3: Fidelma, Fildemo (hosting) | Cabbage, Carrot
+GROUP 4: Jennie, Johnny (hosting) | Puppy | Lunacy
+GROUP 5: Andie (hosting) | Brock | Integrity | Smithers
+GROUP 6: Florence, Lawrence (hosting) | ChosenOne, Ling
+GROUP 7: Amanda, Nina (hosting) | Sandra | Israel
+
+WEEK 9
+GROUP 0: Mary (hosting) | ChosenOne, Ling | Tyler | Annie
+GROUP 1: Mark (hosting) | Bartledoo | Skippy | Tequila | Bertha
+GROUP 2: Fidelma, Fildemo (hosting) | Integrity | Smithers
+GROUP 3: Jennie, Johnny (hosting) | Cabbage, Carrot
+GROUP 4: Andie (hosting) | Puppy | Lunacy | Frederick
+GROUP 5: Brock (hosting) | Brangelina | Florence, Lawrence
+GROUP 6: Joanna (hosting) | Carmen, SanDiego | Sandra
+GROUP 7: Amanda, Nina (hosting) | Israel | Betty
+
+WEEK 10
+GROUP 0: Tyler (hosting) | Mary | Amanda, Nina | Israel
+GROUP 1: Annie (hosting) | Florence, Lawrence | Joanna | Sandra
+GROUP 2: Mark (hosting) | Carmen, SanDiego | Betty
+GROUP 3: Fidelma, Fildemo (hosting) | Brangelina | Bartledoo
+GROUP 4: Jennie, Johnny (hosting) | Integrity | Smithers
+GROUP 5: Andie (hosting) | Skippy | Tequila | Brock
+GROUP 6: Cabbage, Carrot (hosting) | Frederick | Bertha
+GROUP 7: Puppy (hosting) | ChosenOne, Ling | Lunacy
+
+WEEK 11
+GROUP 0: Tyler (hosting) | Carmen, SanDiego | Betty | Mary
+GROUP 1: Annie (hosting) | Amanda, Nina | Israel | Mark
+GROUP 2: Fidelma, Fildemo (hosting) | Skippy | Tequila
+GROUP 3: Jennie, Johnny (hosting) | Frederick | Bertha
+GROUP 4: Andie (hosting) | Brangelina | Bartledoo | Joanna
+GROUP 5: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 6: Lunacy (hosting) | Integrity | Smithers | Sandra
+GROUP 7: Florence, Lawrence (hosting) | ChosenOne, Ling
+
+WEEK 12
+GROUP 0: Tyler (hosting) | ChosenOne, Ling | Mary | Annie
+GROUP 1: Mark (hosting) | Florence, Lawrence | Amanda, Nina
+GROUP 2: Fidelma, Fildemo (hosting) | Bertha | Joanna
+GROUP 3: Jennie, Johnny (hosting) | Skippy | Tequila
+GROUP 4: Andie (hosting) | Sandra | Israel | Betty
+GROUP 5: Brock (hosting) | Lunacy | Integrity | Smithers
+GROUP 6: Cabbage, Carrot (hosting) | Brangelina | Bartledoo
+GROUP 7: Puppy (hosting) | Carmen, SanDiego | Frederick
+
+WEEK 13
+GROUP 0: Annie (hosting) | Mary | Tyler | Carmen, SanDiego
+GROUP 1: Mark (hosting) | Sandra | Israel | ChosenOne, Ling
+GROUP 2: Fidelma, Fildemo (hosting) | Florence, Lawrence
+GROUP 3: Jennie, Johnny (hosting) | Joanna | Betty
+GROUP 4: Andie (hosting) | Amanda, Nina | Brock
+GROUP 5: Cabbage, Carrot (hosting) | Skippy | Tequila
+GROUP 6: Puppy (hosting) | Integrity | Smithers | Bartledoo
+GROUP 7: Lunacy (hosting) | Frederick | Brangelina | Bertha
+
+WEEK 14
+GROUP 0: Annie (hosting) | Betty | ChosenOne, Ling | Mary
+GROUP 1: Mark (hosting) | Tyler | Fidelma, Fildemo | Andie
+GROUP 2: Jennie, Johnny (hosting) | Florence, Lawrence
+GROUP 3: Brock (hosting) | Frederick | Bartledoo | Bertha
+GROUP 4: Cabbage, Carrot (hosting) | Joanna | Sandra
+GROUP 5: Puppy (hosting) | Skippy | Tequila | Israel
+GROUP 6: Lunacy (hosting) | Amanda, Nina | Integrity
+GROUP 7: Smithers (hosting) | Carmen, SanDiego | Brangelina
+
+WEEK 15
+GROUP 0: Mark (hosting) | Mary | Annie | Tyler | Andie
+GROUP 1: Fidelma, Fildemo (hosting) | Amanda, Nina | Sandra
+GROUP 2: Jennie, Johnny (hosting) | Israel | Brock
+GROUP 3: Cabbage, Carrot (hosting) | Florence, Lawrence
+GROUP 4: Puppy (hosting) | Bertha | Joanna | Betty
+GROUP 5: Lunacy (hosting) | Bartledoo | Skippy | Tequila
+GROUP 6: Integrity (hosting) | Carmen, SanDiego | Smithers
+GROUP 7: Frederick (hosting) | Brangelina | ChosenOne, Ling
+
+WEEK 16
+GROUP 0: Fidelma, Fildemo (hosting) | Mary | Tyler | Annie
+GROUP 1: Jennie, Johnny (hosting) | Mark | Amanda, Nina
+GROUP 2: Andie (hosting) | Florence, Lawrence | Brock
+GROUP 3: Cabbage, Carrot (hosting) | Israel | Betty
+GROUP 4: Puppy (hosting) | Sandra | Lunacy | Integrity
+GROUP 5: Smithers (hosting) | Bartledoo | Skippy | Tequila
+GROUP 6: Frederick (hosting) | Bertha | Joanna | Brangelina
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 17
+GROUP 0: Fidelma, Fildemo (hosting) | Mark | Israel | Betty
+GROUP 1: Jennie, Johnny (hosting) | Mary | Tyler | Annie
+GROUP 2: Andie (hosting) | Carmen, SanDiego | Brock
+GROUP 3: Cabbage, Carrot (hosting) | Amanda, Nina
+GROUP 4: Puppy (hosting) | Florence, Lawrence | Lunacy
+GROUP 5: Integrity (hosting) | Bertha | Joanna | Sandra
+GROUP 6: Smithers (hosting) | ChosenOne, Ling | Frederick
+GROUP 7: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+
+WEEK 18
+GROUP 0: Fidelma, Fildemo (hosting) | Carmen, SanDiego | Mary
+GROUP 1: Jennie, Johnny (hosting) | Sandra | ChosenOne, Ling
+GROUP 2: Andie (hosting) | Tyler | Annie | Mark
+GROUP 3: Brock (hosting) | Joanna | Amanda, Nina
+GROUP 4: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 5: Integrity (hosting) | Florence, Lawrence | Israel
+GROUP 6: Smithers (hosting) | Betty | Frederick | Brangelina
+GROUP 7: Bartledoo (hosting) | Skippy | Tequila | Bertha
+
+WEEK 19
+GROUP 0: Fidelma, Fildemo (hosting) | ChosenOne, Ling | Mary
+GROUP 1: Jennie, Johnny (hosting) | Carmen, SanDiego | Tyler
+GROUP 2: Andie (hosting) | Annie | Mark | Brock
+GROUP 3: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 4: Integrity (hosting) | Amanda, Nina | Betty
+GROUP 5: Smithers (hosting) | Florence, Lawrence | Joanna
+GROUP 6: Frederick (hosting) | Bartledoo | Skippy | Tequila
+GROUP 7: Brangelina (hosting) | Bertha | Sandra | Israel
+
+WEEK 20
+GROUP 0: Jennie, Johnny (hosting) | Fidelma, Fildemo | Mary
+GROUP 1: Andie (hosting) | ChosenOne, Ling | Tyler | Annie
+GROUP 2: Brock (hosting) | Mark | Sandra | Israel
+GROUP 3: Cabbage, Carrot (hosting) | Carmen, SanDiego
+GROUP 4: Puppy (hosting) | Amanda, Nina | Lunacy
+GROUP 5: Integrity (hosting) | Smithers | Frederick | Brangelina
+GROUP 6: Bartledoo (hosting) | Betty | Skippy | Tequila
+GROUP 7: Florence, Lawrence (hosting) | Bertha | Joanna
+
+WEEK 21
+GROUP 0: Andie (hosting) | Mary | Fidelma, Fildemo | Tyler
+GROUP 1: Brock (hosting) | Annie | Jennie, Johnny | Mark
+GROUP 2: Cabbage, Carrot (hosting) | ChosenOne, Ling
+GROUP 3: Puppy (hosting) | Lunacy | Integrity | Smithers
+GROUP 4: Frederick (hosting) | Florence, Lawrence | Sandra
+GROUP 5: Brangelina (hosting) | Joanna | Amanda, Nina
+GROUP 6: Bartledoo (hosting) | Israel | Carmen, SanDiego
+GROUP 7: Skippy (hosting) | Betty | Tequila | Bertha
+
+WEEK 22
+GROUP 0: Andie (hosting) | Jennie, Johnny | Mary | Tyler
+GROUP 1: Brock (hosting) | Fidelma, Fildemo | Carmen, SanDiego
+GROUP 2: Cabbage, Carrot (hosting) | Annie | Mark
+GROUP 3: Puppy (hosting) | Lunacy | Integrity | Smithers
+GROUP 4: Frederick (hosting) | Amanda, Nina | Israel
+GROUP 5: Brangelina (hosting) | Florence, Lawrence | Betty
+GROUP 6: Bartledoo (hosting) | ChosenOne, Ling | Skippy
+GROUP 7: Tequila (hosting) | Joanna | Sandra | Bertha
+
+WEEK 23
+GROUP 0: Brock (hosting) | Mary | Tyler | Andie | Annie
+GROUP 1: Cabbage, Carrot (hosting) | Fidelma, Fildemo | Mark
+GROUP 2: Puppy (hosting) | Jennie, Johnny | Lunacy
+GROUP 3: Integrity (hosting) | ChosenOne, Ling | Smithers
+GROUP 4: Frederick (hosting) | Carmen, SanDiego | Betty
+GROUP 5: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+GROUP 6: Florence, Lawrence (hosting) | Bertha | Joanna
+GROUP 7: Amanda, Nina (hosting) | Sandra | Israel
+
+WEEK 24
+GROUP 0: Brock (hosting) | ChosenOne, Ling | Mary | Tyler
+GROUP 1: Cabbage, Carrot (hosting) | Jennie, Johnny | Andie
+GROUP 2: Puppy (hosting) | Annie | Mark | Lunacy
+GROUP 3: Integrity (hosting) | Fidelma, Fildemo | Smithers
+GROUP 4: Frederick (hosting) | Brangelina | Bartledoo | Skippy
+GROUP 5: Tequila (hosting) | Florence, Lawrence | Bertha
+GROUP 6: Joanna (hosting) | Amanda, Nina | Sandra
+GROUP 7: Israel (hosting) | Carmen, SanDiego | Betty
+
+WEEK 25
+GROUP 0: Cabbage, Carrot (hosting) | Mary | Tyler | Brock
+GROUP 1: Puppy (hosting) | Fidelma, Fildemo | Andie | Annie
+GROUP 2: Lunacy (hosting) | Mark | Jennie, Johnny
+GROUP 3: Integrity (hosting) | Smithers | Frederick | Brangelina
+GROUP 4: Bartledoo (hosting) | Skippy | Tequila | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Carmen, SanDiego
+GROUP 6: Joanna (hosting) | ChosenOne, Ling | Sandra
+GROUP 7: Amanda, Nina (hosting) | Israel | Betty
+
+WEEK 26
+GROUP 0: Puppy (hosting) | Mary | Tyler | Brock | Annie
+GROUP 1: Lunacy (hosting) | Fidelma, Fildemo | Andie | Joanna
+GROUP 2: Integrity (hosting) | Mark | Jennie, Johnny
+GROUP 3: Smithers (hosting) | Cabbage, Carrot | Sandra
+GROUP 4: Frederick (hosting) | Brangelina | Bartledoo | Skippy
+GROUP 5: Tequila (hosting) | Amanda, Nina | Bertha
+GROUP 6: Florence, Lawrence (hosting) | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 27
+GROUP 0: Puppy (hosting) | Cabbage, Carrot | Mary | Tyler
+GROUP 1: Lunacy (hosting) | Annie | Brock | Florence, Lawrence
+GROUP 2: Integrity (hosting) | Andie | Mark | Smithers
+GROUP 3: Frederick (hosting) | Fidelma, Fildemo | Brangelina
+GROUP 4: Bartledoo (hosting) | Jennie, Johnny | Skippy
+GROUP 5: Tequila (hosting) | Carmen, SanDiego | Bertha
+GROUP 6: Joanna (hosting) | Amanda, Nina | Sandra
+GROUP 7: Israel (hosting) | Betty | ChosenOne, Ling
+
+WEEK 28
+GROUP 0: Lunacy (hosting) | Mary | Tyler | Cabbage, Carrot
+GROUP 1: Integrity (hosting) | Annie | Brock | Puppy | Mark
+GROUP 2: Smithers (hosting) | Fidelma, Fildemo | Andie
+GROUP 3: Frederick (hosting) | Jennie, Johnny | Brangelina
+GROUP 4: Bartledoo (hosting) | Skippy | Tequila | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Joanna | Sandra
+GROUP 6: Amanda, Nina (hosting) | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 29
+GROUP 0: Lunacy (hosting) | Puppy | Israel | Carmen, SanDiego
+GROUP 1: Integrity (hosting) | Mary | Tyler | Cabbage, Carrot
+GROUP 2: Smithers (hosting) | Annie | Mark | Brock
+GROUP 3: Frederick (hosting) | Andie | Fidelma, Fildemo
+GROUP 4: Brangelina (hosting) | Jennie, Johnny | Bartledoo
+GROUP 5: Skippy (hosting) | Amanda, Nina | Tequila
+GROUP 6: Florence, Lawrence (hosting) | Bertha | Joanna
+GROUP 7: Sandra (hosting) | Betty | ChosenOne, Ling
+
+WEEK 30
+GROUP 0: Lunacy (hosting) | Betty | ChosenOne, Ling | Mary
+GROUP 1: Integrity (hosting) | Tyler | Annie | Mark | Andie
+GROUP 2: Smithers (hosting) | Jennie, Johnny | Puppy
+GROUP 3: Frederick (hosting) | Brock | Cabbage, Carrot
+GROUP 4: Brangelina (hosting) | Fidelma, Fildemo | Bartledoo
+GROUP 5: Skippy (hosting) | Israel | Carmen, SanDiego
+GROUP 6: Tequila (hosting) | Florence, Lawrence | Bertha
+GROUP 7: Joanna (hosting) | Amanda, Nina | Sandra
+
+WEEK 31
+GROUP 0: Integrity (hosting) | Lunacy | Mary | Tyler | Annie
+GROUP 1: Smithers (hosting) | Amanda, Nina | Israel | Mark
+GROUP 2: Frederick (hosting) | Puppy | Fidelma, Fildemo
+GROUP 3: Brangelina (hosting) | Andie | Brock | Bartledoo
+GROUP 4: Skippy (hosting) | Jennie, Johnny | Tequila
+GROUP 5: Florence, Lawrence (hosting) | Cabbage, Carrot
+GROUP 6: Bertha (hosting) | Joanna | Sandra | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 32
+GROUP 0: Smithers (hosting) | Mary | Tyler | Lunacy | Integrity
+GROUP 1: Frederick (hosting) | Annie | Mark | Fidelma, Fildemo
+GROUP 2: Brangelina (hosting) | Cabbage, Carrot | Puppy
+GROUP 3: Bartledoo (hosting) | Andie | Brock | Skippy
+GROUP 4: Tequila (hosting) | Jennie, Johnny | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Joanna | Sandra
+GROUP 6: Amanda, Nina (hosting) | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 33
+GROUP 0: Frederick (hosting) | Mary | Tyler | Lunacy | Integrity
+GROUP 1: Brangelina (hosting) | Annie | Mark | Smithers | Andie
+GROUP 2: Bartledoo (hosting) | Fidelma, Fildemo | Puppy
+GROUP 3: Skippy (hosting) | Brock | Cabbage, Carrot
+GROUP 4: Tequila (hosting) | ChosenOne, Ling | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Jennie, Johnny
+GROUP 6: Joanna (hosting) | Amanda, Nina | Sandra
+GROUP 7: Israel (hosting) | Carmen, SanDiego | Betty
+
+WEEK 34
+GROUP 0: Frederick (hosting) | Smithers | Mary | Tyler | Annie
+GROUP 1: Brangelina (hosting) | Lunacy | Integrity | Carmen, SanDiego
+GROUP 2: Bartledoo (hosting) | Mark | Cabbage, Carrot
+GROUP 3: Skippy (hosting) | Fidelma, Fildemo | Andie
+GROUP 4: Tequila (hosting) | Brock | Puppy | Bertha
+GROUP 5: Florence, Lawrence (hosting) | Jennie, Johnny
+GROUP 6: Joanna (hosting) | Amanda, Nina | Sandra
+GROUP 7: Israel (hosting) | Betty | ChosenOne, Ling
+
+WEEK 35
+GROUP 0: Brangelina (hosting) | Mary | Tyler | Frederick | Annie
+GROUP 1: Bartledoo (hosting) | Lunacy | Integrity | Smithers | Mark
+GROUP 2: Skippy (hosting) | Puppy | ChosenOne, Ling
+GROUP 3: Tequila (hosting) | Fidelma, Fildemo | Andie
+GROUP 4: Florence, Lawrence (hosting) | Brock | Bertha
+GROUP 5: Joanna (hosting) | Jennie, Johnny | Sandra
+GROUP 6: Amanda, Nina (hosting) | Cabbage, Carrot
+GROUP 7: Israel (hosting) | Carmen, SanDiego | Betty
+
+WEEK 36
+GROUP 0: Brangelina (hosting) | ChosenOne, Ling | Mary | Tyler
+GROUP 1: Bartledoo (hosting) | Annie | Frederick | Mark | Andie
+GROUP 2: Skippy (hosting) | Lunacy | Integrity | Smithers
+GROUP 3: Tequila (hosting) | Cabbage, Carrot | Brock
+GROUP 4: Florence, Lawrence (hosting) | Fidelma, Fildemo
+GROUP 5: Bertha (hosting) | Jennie, Johnny | Puppy
+GROUP 6: Joanna (hosting) | Amanda, Nina | Sandra
+GROUP 7: Israel (hosting) | Carmen, SanDiego | Betty
+
+WEEK 37
+GROUP 0: Bartledoo (hosting) | Mary | Tyler | Brangelina | Annie
+GROUP 1: Skippy (hosting) | Mark | Frederick | Fidelma, Fildemo
+GROUP 2: Tequila (hosting) | Lunacy | Integrity | Smithers
+GROUP 3: Florence, Lawrence (hosting) | Andie | Puppy
+GROUP 4: Bertha (hosting) | Brock | Cabbage, Carrot
+GROUP 5: Joanna (hosting) | Jennie, Johnny | Sandra
+GROUP 6: Amanda, Nina (hosting) | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 38
+GROUP 0: Skippy (hosting) | Mary | Tyler | Annie | Brangelina
+GROUP 1: Tequila (hosting) | Mark | Frederick | Bartledoo | Andie
+GROUP 2: Florence, Lawrence (hosting) | Lunacy | Integrity
+GROUP 3: Bertha (hosting) | Fidelma, Fildemo | Smithers
+GROUP 4: Joanna (hosting) | Brock | Cabbage, Carrot
+GROUP 5: Amanda, Nina (hosting) | Jennie, Johnny
+GROUP 6: Sandra (hosting) | Puppy | Israel | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 39
+GROUP 0: Skippy (hosting) | Bartledoo | Mary | Tyler | Annie
+GROUP 1: Tequila (hosting) | Brangelina | Mark | Andie | Brock
+GROUP 2: Florence, Lawrence (hosting) | Smithers | Frederick
+GROUP 3: Bertha (hosting) | Lunacy | Integrity | Israel
+GROUP 4: Joanna (hosting) | Fidelma, Fildemo | Puppy
+GROUP 5: Amanda, Nina (hosting) | Jennie, Johnny
+GROUP 6: Sandra (hosting) | Cabbage, Carrot | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 40
+GROUP 0: Tequila (hosting) | Mary | Tyler | Annie | Skippy
+GROUP 1: Florence, Lawrence (hosting) | Mark | Brangelina | Bartledoo
+GROUP 2: Bertha (hosting) | Andie | Frederick | Brock
+GROUP 3: Joanna (hosting) | Lunacy | Integrity | Smithers
+GROUP 4: Amanda, Nina (hosting) | Fidelma, Fildemo
+GROUP 5: Sandra (hosting) | Jennie, Johnny | Puppy
+GROUP 6: Israel (hosting) | Cabbage, Carrot | Betty
+GROUP 7: Carmen, SanDiego (hosting) | ChosenOne, Ling
+
+WEEK 41
+GROUP 0: Florence, Lawrence (hosting) | Mary | Tyler | Annie
+GROUP 1: Bertha (hosting) | Mark | Brangelina | Bartledoo | Skippy
+GROUP 2: Joanna (hosting) | Andie | Frederick | Tequila
+GROUP 3: Amanda, Nina (hosting) | Brock | Puppy
+GROUP 4: Sandra (hosting) | Fidelma, Fildemo | Lunacy
+GROUP 5: Israel (hosting) | Jennie, Johnny | Integrity
+GROUP 6: Carmen, SanDiego (hosting) | Cabbage, Carrot
+GROUP 7: Betty (hosting) | Smithers | ChosenOne, Ling
+
+WEEK 42
+GROUP 0: Florence, Lawrence (hosting) | Skippy | Tequila | Mary
+GROUP 1: Bertha (hosting) | Tyler | Annie | Amanda, Nina
+GROUP 2: Joanna (hosting) | Mark | Brangelina | Bartledoo
+GROUP 3: Sandra (hosting) | Andie | Brock | Integrity
+GROUP 4: Israel (hosting) | Fidelma, Fildemo | Puppy
+GROUP 5: Carmen, SanDiego (hosting) | Jennie, Johnny
+GROUP 6: Betty (hosting) | Cabbage, Carrot | Lunacy
+GROUP 7: ChosenOne, Ling (hosting) | Smithers | Frederick
+
+WEEK 43
+GROUP 0: Bertha (hosting) | Mary | Tequila | Florence, Lawrence
+GROUP 1: Joanna (hosting) | Tyler | Annie | Skippy | Mark
+GROUP 2: Amanda, Nina (hosting) | Andie | Lunacy
+GROUP 3: Sandra (hosting) | Smithers | Frederick | Brangelina
+GROUP 4: Israel (hosting) | Brock | Bartledoo | Puppy
+GROUP 5: Carmen, SanDiego (hosting) | Fidelma, Fildemo
+GROUP 6: Betty (hosting) | Jennie, Johnny | Integrity
+GROUP 7: ChosenOne, Ling (hosting) | Cabbage, Carrot
+
+WEEK 44
+GROUP 0: Bertha (hosting) | Carmen, SanDiego | ChosenOne, Ling
+GROUP 1: Joanna (hosting) | Mary | Florence, Lawrence | Tyler
+GROUP 2: Amanda, Nina (hosting) | Annie | Mark
+GROUP 3: Sandra (hosting) | Bartledoo | Skippy | Tequila
+GROUP 4: Israel (hosting) | Andie | Lunacy | Smithers
+GROUP 5: Betty (hosting) | Fidelma, Fildemo | Brock
+GROUP 6: Jennie, Johnny (hosting) | Cabbage, Carrot
+GROUP 7: Puppy (hosting) | Integrity | Frederick | Brangelina
+
+WEEK 45
+GROUP 0: Joanna (hosting) | Bertha | Mary | Tyler | Annie
+GROUP 1: Amanda, Nina (hosting) | Integrity | Smithers | Frederick
+GROUP 2: Sandra (hosting) | Mark | Florence, Lawrence
+GROUP 3: Israel (hosting) | Brangelina | Skippy | Tequila
+GROUP 4: Carmen, SanDiego (hosting) | Andie | Brock
+GROUP 5: Betty (hosting) | Puppy | Bartledoo | Lunacy
+GROUP 6: ChosenOne, Ling (hosting) | Fidelma, Fildemo
+GROUP 7: Jennie, Johnny (hosting) | Cabbage, Carrot
+
+WEEK 46
+GROUP 0: Amanda, Nina (hosting) | Mary | Tyler | Brangelina
+GROUP 1: Sandra (hosting) | Annie | Bertha | Joanna | Mark
+GROUP 2: Israel (hosting) | Frederick | Florence, Lawrence
+GROUP 3: Carmen, SanDiego (hosting) | Puppy | Lunacy
+GROUP 4: Betty (hosting) | Andie | Skippy | Tequila
+GROUP 5: ChosenOne, Ling (hosting) | Jennie, Johnny
+GROUP 6: Fidelma, Fildemo (hosting) | Brock | Integrity
+GROUP 7: Cabbage, Carrot (hosting) | Smithers | Bartledoo
+
+WEEK 47
+GROUP 0: Amanda, Nina (hosting) | Bartledoo | Skippy | Tequila
+GROUP 1: Sandra (hosting) | Mary | Tyler | Carmen, SanDiego
+GROUP 2: Israel (hosting) | Annie | Mark | Bertha
+GROUP 3: Betty (hosting) | Frederick | Brangelina | Joanna
+GROUP 4: ChosenOne, Ling (hosting) | Andie | Brock
+GROUP 5: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 6: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 7: Integrity (hosting) | Smithers | Florence, Lawrence
+
+WEEK 48
+GROUP 0: Amanda, Nina (hosting) | Florence, Lawrence | Bertha
+GROUP 1: Sandra (hosting) | Mary | Tyler | Annie | Mark
+GROUP 2: Israel (hosting) | Joanna | Fidelma, Fildemo
+GROUP 3: Carmen, SanDiego (hosting) | Integrity | Smithers
+GROUP 4: Betty (hosting) | Jennie, Johnny | Andie
+GROUP 5: ChosenOne, Ling (hosting) | Puppy | Lunacy
+GROUP 6: Brock (hosting) | Cabbage, Carrot | Frederick
+GROUP 7: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+
+WEEK 49
+GROUP 0: Amanda, Nina (hosting) | Joanna | Mary | Tyler
+GROUP 1: Sandra (hosting) | Annie | Mark | Andie | Brock
+GROUP 2: Israel (hosting) | Fidelma, Fildemo | Puppy
+GROUP 3: Carmen, SanDiego (hosting) | Frederick | Brangelina
+GROUP 4: Betty (hosting) | Florence, Lawrence | Bertha
+GROUP 5: ChosenOne, Ling (hosting) | Integrity | Bartledoo
+GROUP 6: Jennie, Johnny (hosting) | Cabbage, Carrot
+GROUP 7: Lunacy (hosting) | Smithers | Skippy | Tequila
+
+WEEK 50
+GROUP 0: Sandra (hosting) | Amanda, Nina | Mary | Tyler
+GROUP 1: Israel (hosting) | Annie | Mark | Andie | Brock
+GROUP 2: Carmen, SanDiego (hosting) | Bartledoo | Skippy
+GROUP 3: Betty (hosting) | Fidelma, Fildemo | Puppy
+GROUP 4: ChosenOne, Ling (hosting) | Brangelina | Tequila
+GROUP 5: Jennie, Johnny (hosting) | Cabbage, Carrot
+GROUP 6: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 7: Florence, Lawrence (hosting) | Bertha | Joanna
+
+WEEK 51
+GROUP 0: Israel (hosting) | Mary | Tyler | Amanda, Nina
+GROUP 1: Carmen, SanDiego (hosting) | Annie | Mark | Tequila
+GROUP 2: Betty (hosting) | Sandra | Fidelma, Fildemo
+GROUP 3: ChosenOne, Ling (hosting) | Skippy | Bertha
+GROUP 4: Jennie, Johnny (hosting) | Andie | Brock
+GROUP 5: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 6: Integrity (hosting) | Smithers | Frederick | Brangelina
+GROUP 7: Bartledoo (hosting) | Florence, Lawrence | Joanna
+
+WEEK 52
+GROUP 0: Israel (hosting) | Sandra | Mary | Tyler | Annie
+GROUP 1: Carmen, SanDiego (hosting) | Florence, Lawrence | Bertha
+GROUP 2: Betty (hosting) | Mark | Amanda, Nina
+GROUP 3: ChosenOne, Ling (hosting) | Joanna | Andie
+GROUP 4: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 5: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 6: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 7: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+
+WEEK 53
+GROUP 0: Carmen, SanDiego (hosting) | Mary | Tyler | Joanna
+GROUP 1: Betty (hosting) | Annie | Israel | Mark | Andie
+GROUP 2: ChosenOne, Ling (hosting) | Florence, Lawrence
+GROUP 3: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 4: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 5: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 6: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+GROUP 7: Bertha (hosting) | Amanda, Nina | Sandra
+
+WEEK 54
+GROUP 0: Carmen, SanDiego (hosting) | Amanda, Nina | Sandra
+GROUP 1: Betty (hosting) | Mary | Tyler | Annie | Mark
+GROUP 2: ChosenOne, Ling (hosting) | Israel | Andie
+GROUP 3: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 4: Brock (hosting) | Cabbage, Carrot | Puppy
+GROUP 5: Lunacy (hosting) | Integrity | Smithers | Frederick
+GROUP 6: Brangelina (hosting) | Bartledoo | Skippy | Tequila
+GROUP 7: Florence, Lawrence (hosting) | Bertha | Joanna
+
+WEEK 55
+GROUP 0: Carmen, SanDiego (hosting) | Israel | Betty | Mary
+GROUP 1: ChosenOne, Ling (hosting) | Tyler | Annie | Mark
+GROUP 2: Fidelma, Fildemo (hosting) | Jennie, Johnny
+GROUP 3: Andie (hosting) | Brock | Cabbage, Carrot
+GROUP 4: Puppy (hosting) | Lunacy | Integrity | Smithers
+GROUP 5: Frederick (hosting) | Brangelina | Bartledoo | Skippy
+GROUP 6: Tequila (hosting) | Florence, Lawrence | Bertha
+GROUP 7: Joanna (hosting) | Amanda, Nina | Sandra
+
+WEEK 56
+GROUP 0: Betty (hosting) | Carmen, SanDiego | Mary | Tyler
+GROUP 1: ChosenOne, Ling (hosting) | Amanda, Nina | Sandra
+GROUP 2: Annie (hosting) | Mark | Fidelma, Fildemo
+GROUP 3: Jennie, Johnny (hosting) | Andie | Brock
+GROUP 4: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 5: Integrity (hosting) | Smithers | Frederick | Brangelina
+GROUP 6: Bartledoo (hosting) | Skippy | Tequila | Bertha
+GROUP 7: Florence, Lawrence (hosting) | Joanna | Israel
+
+WEEK 57
+GROUP 0: ChosenOne, Ling (hosting) | Mary | Carmen, SanDiego
+GROUP 1: Tyler (hosting) | Annie | Mark | Fidelma, Fildemo
+GROUP 2: Jennie, Johnny (hosting) | Andie | Brock
+GROUP 3: Cabbage, Carrot (hosting) | Puppy | Lunacy
+GROUP 4: Integrity (hosting) | Smithers | Frederick | Brangelina
+GROUP 5: Bartledoo (hosting) | Skippy | Tequila | Bertha
+GROUP 6: Florence, Lawrence (hosting) | Joanna | Sandra
+GROUP 7: Amanda, Nina (hosting) | Israel | Betty
+
+WEEK 58
+GROUP 0: ChosenOne, Ling (hosting) | Betty | Mary | Tyler
+GROUP 1: Annie (hosting) | Mark | Fidelma, Fildemo | Andie
+GROUP 2: Jennie, Johnny (hosting) | Brock | Puppy
+GROUP 3: Cabbage, Carrot (hosting) | Lunacy | Integrity
+GROUP 4: Smithers (hosting) | Frederick | Brangelina | Bartledoo
+GROUP 5: Skippy (hosting) | Tequila | Florence, Lawrence
+GROUP 6: Bertha (hosting) | Joanna | Amanda, Nina
+GROUP 7: Sandra (hosting) | Israel | Carmen, SanDiego
