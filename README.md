@@ -1,5 +1,5 @@
 # Creating Community Small Groups
-A work by: Andrew McLain and Allie Hanson
+Andrew McLain
 
 ## Introduction
 
@@ -20,8 +20,6 @@ JGraphT - 1.5.0 <br>
 <br><br>
 
 ## User Manual
-<b> <a href="https://www.youtube.com/watch?v=irOPtOiyAAQ">Youtube Link Command Line Running</a> </b> <br>
-<b> <a href="https://youtu.be/Lr6ZUDDwwmg">Youtube Link IntelliJ IDEA Running</a> </b> <br>
 All one needs to run this program on their device is the jar file located in <i><b>/community-groups-termproject-andrewm-allieh/out/artifacts/community_groups_termproject_andrewm_allieh_jar</b></i> and the 3 <i>group*.txt</i> files located in the root directory for the project. I am only able to get the graphical graph to display when using the IntelliJ IDEA IDE. In this case, you must exit out of the graph window that is generated in order for the program to finish running.<br><br>
 <img src="Run_JAR_file.PNG">
 <img src="Output_Example.PNG">
